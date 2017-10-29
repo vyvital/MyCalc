@@ -1,0 +1,79 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.Material">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:colorButtonNormal">@color/colorPrimary</item>
+    </style>
+
+    <style name="orangeTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimaryDark">#F57C00</item>
+        <item name="android:colorPrimary">@color/orange</item>
+        <item name="android:colorAccent">@color/orange</item>
+        <item name="android:background">@color/orange</item>
+        <item name="android:colorButtonNormal">@color/orange</item>
+
+
+    </style>
+
+    <style name="pinkTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimaryDark">#C2185B</item>
+        <item name="android:colorPrimary">@color/pink</item>
+        <item name="android:colorAccent">@color/pink</item>
+        <item name="android:background">@color/pink</item>
+        <item name="android:colorButtonNormal">@color/pink</item>
+    </style>
+    <style name="redTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimaryDark">#E53935</item>
+        <item name="android:colorPrimary">@color/red</item>
+        <item name="android:colorAccent">@color/red</item>
+        <item name="android:background">@color/red</item>
+        <item name="android:colorButtonNormal">@color/red</item>
+    </style>
+    <style name="limeTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimaryDark">#AFB42B</item>
+        <item name="android:colorPrimary">@color/lime</item>
+        <item name="android:colorAccent">@color/lime</item>
+        <item name="android:background">@color/lime</item>
+        <item name="android:colorButtonNormal">@color/lime</item>
+    </style>
+    <style name="greenTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimaryDark">#388E3C</item>
+        <item name="android:colorPrimary">@color/green</item>
+        <item name="android:colorAccent">@color/green</item>
+        <item name="android:background">@color/green</item>
+        <item name="android:colorButtonNormal">@color/green</item>
+    </style>
+    <style name="tealTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimaryDark">#00796B</item>
+        <item name="android:colorPrimary">@color/teal</item>
+        <item name="android:colorAccent">@color/teal</item>
+        <item name="android:background">@color/teal</item>
+        <item name="android:colorButtonNormal">@color/teal</item>
+    </style>
+    <style name="blueTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimaryDark">#0288D1</item>
+        <item name="android:colorPrimary">@color/blue</item>
+        <item name="android:colorAccent">@color/blue</item>
+        <item name="android:background">@color/blue</item>
+        <item name="android:colorButtonNormal">@color/blue</item>
+    </style>
+    <style name="purpleTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimaryDark">#7B1FA2</item>
+        <item name="android:colorPrimary">@color/purple</item>
+        <item name="android:colorAccent">@color/purple</item>
+        <item name="android:background">@color/purple</item>
+        <item name="android:colorButtonNormal">@color/purple</item>
+    </style>
+    <style name="darkTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimaryDark">#212121</item>
+        <item name="android:colorPrimary">@color/dark</item>
+        <item name="android:colorAccent">@color/dark</item>
+        <item name="android:background">@color/dark</item>
+        <item name="android:colorButtonNormal">@color/dark</item>
+    </style>
+</resources>
