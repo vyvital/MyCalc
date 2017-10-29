@@ -8,5 +8,5 @@ Just install the apk in the Extra folder and you're good to go
 - Theme Picker
 - 9 New Color Themes
 ------------
-<img src="Extra/screenshot1.png" height="700" alt="Screenshot"/>
-<img src="Extra/screenshot2.png" height="700" alt="Screenshot"/>  
+<img src="Extra/Screenshot1.png" height="700"/> <img src="Extra/Screenshot2.png" height="700"/>  
+
